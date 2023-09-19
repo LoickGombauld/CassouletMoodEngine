@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.targets
+*.props
+*.filters
+*.items
+*.vcxproj
+RegenXmake.bat
+xmake.lua
+vsxmake2019/CassouletMoodEngine.sln
